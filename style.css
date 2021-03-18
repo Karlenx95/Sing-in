@@ -1,0 +1,18 @@
+form {
+  margin: 50px auto;/*size around form*/
+  width: 300px;/*width form*/
+  padding: 35px 20px;/*margin distance vertically and horizontal*/
+  background:cornflowerblue;/*back color*/
+
+}
+h3 {
+  font-weight: normal;
+  text-align: center;/* text position*/
+  color: #556b2f;
+}
+h1 {
+  font-weight: bolder;
+  text-align: center;
+  color: cyan;
+ }
+
